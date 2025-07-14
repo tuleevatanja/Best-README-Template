@@ -245,6 +245,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [PyTorch.js]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 [PyTorch-url]: https://pytorch.org
 [Mathlib-badge]: https://img.shields.io/badge/Mathlib-0.1+-%230075A8?style=for-the-badge&logo=math&logoColor=white
-[Mathlib-url]: https://leanprover-community.github.io/mathlib4_docs/
+[Mathlib-url]:https://pypi.org/project/mathlib/
 [tqdm-badge]: https://img.shields.io/badge/tqdm-v4.+-blue?style=for-the-badge&logo=progress&logoColor=white
-[tqdm-url]: https://github.com/tqdm/tqdm
+[tqdm-url]: https://tqdm.github.io/
