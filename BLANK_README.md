@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+Это проект по разработке сервиса для определения концентрации внимания человека с помощью видеокамеры в режиме реального времени. Он реализуется в рамках Great Math Workshop 2025
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
