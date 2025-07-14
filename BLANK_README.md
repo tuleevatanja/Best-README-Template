@@ -93,7 +93,7 @@
 
 ### Built With
 
-* [![Python][Next.js]][Next-url]
+* [![Python][python.org/]][https://www.python.org/]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
