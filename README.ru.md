@@ -57,7 +57,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#о-проекте">About The Project</a>
       <ul>
         <li><a href="#build-with">Built With</a></li>
       </ul>
